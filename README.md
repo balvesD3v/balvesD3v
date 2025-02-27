@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://balvesdev-portifolio.netlify.app/](https://balvesdev-portifolio.netlify.app/)
 
-- 📫 How to reach me **https://www.linkedin.com/in/paulobarbosacode/**
+- 📫 How to reach me **/paulobarbosacode/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
