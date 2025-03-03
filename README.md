@@ -32,8 +32,8 @@
 
 <div align="left">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=balvesd3v&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itspaulin&show_icons=true&theme=transparent)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balvesd3v&layout=compact&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itspaulin&layout=compact&theme=transparent)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balvesd3v&theme=transparent" alt="balvesd3v" /></p>
